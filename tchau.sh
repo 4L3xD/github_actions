@@ -1,1 +1,1 @@
-"Tchau, tchau!"
+echo "Tchau, tchau!"
